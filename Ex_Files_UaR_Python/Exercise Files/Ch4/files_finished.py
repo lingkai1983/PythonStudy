@@ -25,7 +25,7 @@ def main():
     
     fl = f.readlines() # readlines reads the individual lines into a list
     for x in fl:
-      print x
+      print (x)
     
 if __name__ == "__main__":
   main()
